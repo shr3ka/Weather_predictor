@@ -10,4 +10,4 @@ Easy-to-use interface for input and forecast retrieval.
 Data Source:
 The predictor utilizes historical weather data from 1970 to 2021 at JFK Airport. This data includes various weather parameters such as temperature, wind speed, precipitation, snowfall, and more. The historical data helps the predictor learn patterns and correlations to make accurate temperature forecasts.
 
-Ridge regression was used using scikit learn, numpy and pandas
+Ridge regression was used using scikit learn, numpy and pandas.
